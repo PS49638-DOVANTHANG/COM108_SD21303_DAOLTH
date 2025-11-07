@@ -8,7 +8,9 @@ int main(){
     char ten[10];
     printf("nhap a va b:");
     scanf("%d%d",&a,&b);
+
     printf("nhap vao ten toi:\n");
     scanf("%s", &ten );
+    
     return 0;
 }
